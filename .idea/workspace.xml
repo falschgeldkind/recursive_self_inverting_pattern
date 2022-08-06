@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e0f3616-db1d-4819-b5ac-e46df1037c08" name="Changes" comment="basic functionality done">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ErroneousPatternException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciNumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntegerNumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimitiveNumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RSIP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadPrimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8e0f3616-db1d-4819-b5ac-e46df1037c08" name="Changes" comment="basic functionality done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -80,8 +68,16 @@
       <option name="presentableId" value="Default" />
       <updated>1659647821544</updated>
       <workItem from="1659647826018" duration="12180000" />
-      <workItem from="1659688548889" duration="3058000" />
+      <workItem from="1659688548889" duration="3541000" />
     </task>
+    <task id="LOCAL-00001" summary="basic functionality done">
+      <created>1659748031049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659748031049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

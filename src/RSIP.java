@@ -40,7 +40,7 @@ public class RSIP {
         }
 
     }
-        private final FileOutputStream fO;
+        private FileOutputStream fO;
 
         public RSIP(){
             try {
